@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+	<item>
+		<id>1</id>
+	 	<food>套餐</food>
+	 	<price>10</price>
+	 </item>
+	 <item>
+	 	<id>2</id>
+	 	<food>地三鲜</food>
+	 	<price>11</price>
+	 </item>
+	 <item>
+	 	<id>3</id>
+	 	<food>红烧茄子</food>
+	 	<price>12</price>
+	 </item>
+</menu>
+
