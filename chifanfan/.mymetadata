@@ -4,7 +4,7 @@
   name="chifanfan"
   id="myeclipse.1376925649461"
   context-root="/chifanfan"
-  j2ee-spec="6.0"
+ 
   archive="chifanfan.war">
   <attributes>
     <attribute name="webrootdir" value="WebRoot" />
